@@ -1,0 +1,14 @@
+.comment-feild:focus{
+    outline: rgb(243, 243, 243);
+    }
+   
+ 
+    .share-btn:hover{
+        color: rgb(17, 70, 214);
+           
+        }
+       
+        .edit-btn:hover{
+            color: rgb(17, 70, 214);
+               
+            }
